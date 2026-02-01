@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic Eagle Training & Networking",
+  "description": "A modern corporate website for Dynamic Eagle, offering professional training, events, chauffeur services, and accommodation solutions in South Africa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
